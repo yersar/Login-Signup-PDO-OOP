@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - dblogin@localhost" uuid="91dc864d-1116-46db-b6ae-e5a0d01b1864">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-scope>dblogin:</introspection-scope>
+      <resolve-scope>dblogin:</resolve-scope>
+    </data-source>
+  </component>
+</project>
